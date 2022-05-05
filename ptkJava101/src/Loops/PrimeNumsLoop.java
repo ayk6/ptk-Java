@@ -1,6 +1,6 @@
 package Loops;
 
-public class PrimeNums {
+public class PrimeNumsLoop {
     public static void main(String[] args) {
         System.out.println("1 ile 100 arasındaki asal sayılar : ");
 
