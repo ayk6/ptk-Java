@@ -2,7 +2,7 @@ package Arrays;
 
 public class Repeat {
     public static void main(String[] args) {
-        int[] arr = {3,5,8,7,1,5,6,9,2,0,0,7,4,5,6,7,3,2,1,8};
+        int[] arr = {3, 5, 8, 7, 1, 5, 6, 9, 2, 0, 0, 7, 4, 5, 6, 7, 3, 2, 1, 8};
         repeatNums(arr);
     }
 
